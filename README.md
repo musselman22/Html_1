@@ -1,1 +1,1 @@
-To run project open HTML in browser.
+To run project, in Google Chrome select "File" --> "Open File..." --> then select index.html
